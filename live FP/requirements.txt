@@ -1,0 +1,9 @@
+PyQt5
+pyqtgraph
+pandas
+smartapi-python
+pyotp
+websocket-client
+bhavcopy
+pyqtgraph
+logzero
